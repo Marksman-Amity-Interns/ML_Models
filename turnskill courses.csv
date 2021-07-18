@@ -1,0 +1,100 @@
+course_id,title,category,image,description,count_videos,instructor,islive,isonetoone,price
+5,2020 Complete Python Bootcamp: From Zero to Hero in Python,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,200
+6,The Web Developer Bootcamp,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,1,2000
+7,Machine Learning A-Z™: Hands-On Python & R In Data Science,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,1000
+8,Angular - The Complete Guide (2020 Edition),coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,0,2000
+9,Java Programming Masterclass for Software Developers,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,1,1077
+10,"React - The Complete Guide (incl Hooks, React Router, Redux)",coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,1577
+11,Python for Data Science and Machine Learning Bootcamp,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,699
+12,The Complete 2020 Web Development Bootcamp,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,637
+13,The Complete JavaScript Course 2020: Build Real Projects!,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,1,1657
+14,Complete C# Unity Game Developer 2D,coding,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,1,1487
+15,The Data Science Course 2020: Complete Data Science Bootcamp,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,809
+16,Automate the Boring Stuff with Python Programming,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,585
+17,The Complete Web Developer Course 2.0,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,1076
+18,Modern React with Redux [2020 Update],learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,1,856
+19,Learn Python Programming Masterclass,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,1066
+20,The Complete Node.js Developer Course (3rd Edition),learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,1432
+21,Selenium WebDriver with Java -Basics to Advanced+Frameworks,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,620
+22,iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,1,1527
+23,Unreal Engine C++ Developer: Learn C++ and Make Video Games,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,1971
+24,Spring & Hibernate for Beginners (includes Spring Boot),learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1515
+25,The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,0,695
+26,Build Responsive Real World Websites with HTML5 and CSS3,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,1,1139
+27,The Python Mega Course: Build 10 Real World Applications,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,1395
+28,Docker Mastery: with Kubernetes +Swarm from a Docker Captain,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,1,1868
+29,Vue JS - The Complete Guide (incl. Vue Router & Vuex),education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,1165
+30,The Complete Web Developer in 2020: Zero to Mastery,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,657
+31,JavaScript: Understanding the Weird Parts,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,1,1985
+32,C# Basics for Beginners: Learn C# Fundamentals by Coding,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,0,1694
+33,R Programming A-Z™: R For Data Science With Real Exercises!,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,1,755
+34,The Complete React Native + Hooks Course [2020 Edition],education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1348
+35,Python and Django Full Stack Web Developer Bootcamp,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,1,1018
+36,Deep Learning A-Z™: Hands-On Artificial Neural Networks,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,1,1538
+37,iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,1748
+38,Docker and Kubernetes: The Complete Guide,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,1,1224
+39,The Python Bible™ | Everything You Need to Program in Python,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,0,1538
+40,Beginning C++ Programming - From Beginner to Beyond,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,0,1525
+41,Data Science A-Z™: Real-Life Data Science Exercises Included,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1540
+42,The Complete Android N Developer Course,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,583
+43,Flutter & Dart - The Complete Guide [2020 Edition],education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,0,843
+44,Ultimate AWS Certified Developer Associate 2020 - NEW!,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,1,1507
+45,The Complete ASP.NET MVC 5 Course,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,1,1074
+46,"Advanced CSS and Sass: Flexbox, Grid, Animations and More!",learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1166
+47,Learn and Understand NodeJS,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,1,639
+48,"Machine Learning, Data Science and Deep Learning with Python",learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,0,1222
+49,Complete C# Unity Game Developer 3D,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,1578
+50,The Complete Oracle SQL Certification Course,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,959
+51,The Complete 2020 Flutter Development Bootcamp with Dart,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,1410
+52,The Complete Angular Course: Beginner to Advanced,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1956
+53,Master Microservices with Spring Boot and Spring Cloud,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,1884
+54,Modern JavaScript From The Beginning,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,1494
+55,"C# Intermediate: Classes, Interfaces and OOP",learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,1451
+56,Scrum Certification Prep +Scrum Master+ Agile Scrum Training,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,1662
+57,The Modern Python 3 Bootcamp,learning,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,0,1529
+58,Complete Python Developer in 2020: Zero to Mastery,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,1726
+59,"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,0,669
+60,Learn and Understand AngularJS,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,0,1297
+61,The Complete Python 3 Course: Beginner to Advanced!,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,1,1518
+62,Angular & NodeJS - The MEAN Stack Guide [2020 Edition],dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,683
+63,Apache Kafka Series - Learn Apache Kafka for Beginners v2,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,1718
+64,Python A-Z™: Python For Data Science With Real Exercises!,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,1,1429
+65,Python for Absolute Beginners,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,0,1555
+66,PHP for Beginners - Become a PHP Master - CMS Project,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,0,1987
+67,Statistics for Data Science and Business Analysis,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,1,1443
+68,The Complete React Developer Course (w/ Hooks and Redux),dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,1,1791
+69,React Native - The Practical Guide [2020 Edition],dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1276
+70,Artificial Intelligence A-Z™: Learn How To Build An AI,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,0,1102
+71,Understanding TypeScript - 2020 Edition,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,0,1734
+72,Angular Crash Course for Busy Developers,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,1,1293
+73,Complete Guide to TensorFlow for Deep Learning with Python,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,587
+74,Learn How To Code: Google's Go (golang) Programming Language,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,1763
+75,Learning Python for Data Analysis and Visualization,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,1,1247
+76,C Programming For Beginners - Master the C Language,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,1639
+77,Go: The Complete Developer's Guide (Golang),dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,681
+78,Learn HTML5 Programming From Scratch,dev,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,1424
+79,iOS 10 & Swift 3: From Beginner to Paid Professional™,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,0,725
+80,Selenium WebDriver Training with Java and Many Live Projects,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,0,526
+81,"Git Complete: The definitive, step-by-step guide to Git",education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,1020
+82,C# Advanced Topics: Prepare for Technical Interviews,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,628
+83,Python for Financial Analysis and Algorithmic Trading,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,0,908
+84,The Complete Android Oreo Developer Course - Build 23 Apps!,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,662
+85,The Ultimate Excel Programmer Course,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,549
+86,Modern HTML & CSS From The Beginning (Including Sass),education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,0,1137
+87,Learn JIRA with real-world examples (+Confluence bonus),education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,1,1867
+88,The Ultimate Guide to Game Development with Unity 2019,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,1,1121
+89,"Ionic - Build iOS, Android & Web Apps with Ionic & Angular",education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,1708
+90,Web Design for Beginners: Real World Coding in HTML & CSS,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,1,520
+91,The Complete WordPress Website Business Course,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,0,1,861
+92,Bootstrap 4 From Scratch With 5 Projects,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,0,923
+93,Spark and Python for Big Data with PySpark,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,0,1750
+94,Spring Framework 5: Beginner to Guru,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,1,0,1600
+95,Build an app with ASPNET Core and Angular from scratch,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,0,0,746
+96,Node with React: Fullstack Web Development,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,1,1272
+97,Data Science and Machine Learning Bootcamp with R,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,0,1,1665
+98,Rest API Testing (Automation) from Scratch -RestAssured Java,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,4,1,1,0,1940
+99,Apache Spark with Scala - Hands On with Big Data!,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,2,1,0,1,1960
+100,Become a WordPress Developer: Unlocking Power With Code,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,0,1575
+101,Ultimate Web Designer & Developer Course: Build 23 Projects!,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,1515
+102,The Complete Ruby on Rails Developer Course,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,3,1,1,1,1597
+103,REST APIs with Flask and Python,education,image.jpg,This course is specially designed for beginners. There are no prerequisites. ,1,1,1,1,1495
